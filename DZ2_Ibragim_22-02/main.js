@@ -14,10 +14,10 @@
 
 
 // 3 часть дз
-var word=prompt("write the color")
-var obj = {"red":"stop" , "yellow":"wait" , "green":"go"}
-if( word in obj ){
-    alert(obj[word])
-}else{
-    alert("write this ; yellow , green , red")
-}
+// var word=prompt("write the color")
+// var obj = {"red":"stop" , "yellow":"wait" , "green":"go"}
+// if( word in obj ){
+//     alert(obj[word])
+// }else{
+//     alert("write this ; yellow , green , red")
+// }
